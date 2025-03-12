@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.input-field {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-md text-gray-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-green-500 transition-all;
+  }
+  
+  .Toastify__toast-container {
+    top: 10px !important;
+    transform: translateX(-60%);
+    left: 40%;
+    width: auto;
+  }
+  
